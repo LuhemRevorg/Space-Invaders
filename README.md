@@ -1,0 +1,1 @@
+This project is based on the game space-invaders and onvolves two version one a challenge which consists of only 4 bots which die on collision but are extremely fast and the other(Normal) version of 4 bots which respawn randomly on hitting.
